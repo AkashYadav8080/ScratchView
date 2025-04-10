@@ -21,7 +21,6 @@ An interactive Android application where users can scratch a surface to reveal h
 </p>
 
 
-
 ---
 
 ## 🔧 Tech Stack
@@ -31,10 +30,10 @@ An interactive Android application where users can scratch a surface to reveal h
 - **Minimum SDK:** 21  
 - **Dependency:**
 - 
-  groovy
+  **groovy**
   implementation 'com.github.cooltechworks:ScratchView:v1.1'
 
-🚀 How it Works
+🚀**How it Works**
 
 
 Scratch the image overlay using finger gestures
@@ -47,7 +46,7 @@ A scale animation plays to highlight the reward
 
 
 
-🛠️ Setup Instructions
+🛠️ **Setup Instructions**
 
 
 Clone this repository:
@@ -59,24 +58,24 @@ Open in Android Studio
 Build the project and run on emulator or device
 
 
-🤝 Contribution
+🤝 **Contribution**
 
 Feel free to fork, improve, or open issues. All contributions are welcome!
 
 
-📄 License
+📄 **License**
 This project is open-sourced under the MIT License.
 
 
-🔗 Credits
+🔗 **Credits**
 https://github.com/sharish/ScratchView
 
 
-🙌 Acknowledgements
+🙌 **Acknowledgements**
 
-CoolTechWorks ScratchView Library
+- CoolTechWorks ScratchView Library
 
-Android Animation Utils
+- Android Animation Utils
 
-Google Android Documentation
+- Google Android Documentation
 
