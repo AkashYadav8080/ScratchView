@@ -14,13 +14,13 @@ An interactive Android application where users can scratch a surface to reveal h
 
 # 📱 Screenshots
 ### Scratch Before
-![ScratchView Screenshot](images/screenshot1.png)
+![ScratchView Screenshot](app/images/screenshot1.png)
 
 ### Scratch In Progress
-![ScratchView Screenshot](images/screenshot2.png)
+![ScratchView Screenshot](app/images/screenshot2.png)
 
 ### Scratch In Progress
-![ScratchView Screenshot](images/screenshot3.png)
+![ScratchView Screenshot](app/images/screenshot3.png)
 
 ---
 
