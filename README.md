@@ -14,11 +14,10 @@ An interactive Android application where users can scratch a surface to reveal h
 
 # 📱 Screenshots
 
-<h3>Screenshots</h3>
 <p align="center">
-  <img src="app/images/screenshot1.png" alt="Before" width="200"/>
-  <img src="app/images/screenshot2.png" alt="In Progress" width="200"/>
-  <img src="app/images/screenshot3.png" alt="Revealed" width="200"/>
+  <img src="app/images/screenshot1.png" alt="Before" width="200" title="Scratch Before"/>
+  <img src="app/images/screenshot2.png" alt="In Progress" width="200" title="Scratch In Progress" style="margin-left:100px; margin-right:100px;"/>
+  <img src="app/images/screenshot3.png" alt="Revealed" width="200" title="Scratch Revealed"/>
 </p>
 
 
