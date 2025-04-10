@@ -42,8 +42,11 @@ A scale animation plays to highlight the reward
 
 🛠️ Setup Instructions
 Clone this repository:
+
 git clone https://github.com/AkashYadav8080/ScratchView.git
+
 Open in Android Studio
+
 Build the project and run on emulator or device
 
 🤝 Contribution
@@ -55,4 +58,10 @@ This project is open-sourced under the MIT License.
 🔗 Credits
 https://github.com/sharish/ScratchView
 
+🙌 Acknowledgements
+CoolTechWorks ScratchView Library
+
+Android Animation Utils
+
+Google Android Documentation
 
