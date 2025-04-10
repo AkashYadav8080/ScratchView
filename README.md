@@ -35,12 +35,21 @@ An interactive Android application where users can scratch a surface to reveal h
   implementation 'com.github.cooltechworks:ScratchView:v1.1'
 
 🚀 How it Works
+
+
 Scratch the image overlay using finger gestures
+
 When 60% area is scratched, it auto-completes the reveal
+
 A congratulatory message is shown
+
 A scale animation plays to highlight the reward
 
+
+
 🛠️ Setup Instructions
+
+
 Clone this repository:
 
 git clone https://github.com/AkashYadav8080/ScratchView.git
@@ -49,16 +58,22 @@ Open in Android Studio
 
 Build the project and run on emulator or device
 
+
 🤝 Contribution
+
 Feel free to fork, improve, or open issues. All contributions are welcome!
+
 
 📄 License
 This project is open-sourced under the MIT License.
 
+
 🔗 Credits
 https://github.com/sharish/ScratchView
 
+
 🙌 Acknowledgements
+
 CoolTechWorks ScratchView Library
 
 Android Animation Utils
