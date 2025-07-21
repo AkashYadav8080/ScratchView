@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onRevealPercentChangedListener(ScratchImageView siv, float percent) {
-                if (percent > 0.6f) { // After 60% automatic whole reveled
+                if (percent > 0.4f) { // After 40% automatic whole reveled
                     siv.reveal();
                 }
             }
