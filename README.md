@@ -78,4 +78,3 @@ https://github.com/sharish/ScratchView
 - Android Animation Utils
 
 - Google Android Documentation
-
