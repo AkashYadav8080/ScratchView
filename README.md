@@ -20,7 +20,6 @@ An interactive Android application where users can scratch a surface to reveal h
   <img src="app/images/screenshot3.png" alt="Revealed" width="200" title="Scratch Revealed"/>
 </p>
 
-
 ---
 
 ## 🔧 Tech Stack
