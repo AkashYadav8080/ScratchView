@@ -68,11 +68,3 @@ This project is open-sourced under the MIT License.
 
 🔗 **Credits**
 https://github.com/sharish/ScratchView
-
-🙌 **Acknowledgements**
-
-- CoolTechWorks ScratchView Library
-
-- Android Animation Utils
-
-- Google Android Documentation
