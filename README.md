@@ -47,7 +47,6 @@ A scale animation plays to highlight the reward
 
 🛠️ **Setup Instructions**
 
-
 Clone this repository:
 
 git clone https://github.com/AkashYadav8080/ScratchView.git
