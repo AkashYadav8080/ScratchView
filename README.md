@@ -44,7 +44,6 @@ A congratulatory message is shown
 A scale animation plays to highlight the reward
 
 
-
 🛠️ **Setup Instructions**
 
 Clone this repository:
@@ -55,15 +54,12 @@ Open in Android Studio
 
 Build the project and run on emulator or device
 
-
 🤝 **Contribution**
 
 Feel free to fork, improve, or open issues. All contributions are welcome!
 
-
 📄 **License**
 This project is open-sourced under the MIT License.
-
 
 🔗 **Credits**
 https://github.com/sharish/ScratchView
