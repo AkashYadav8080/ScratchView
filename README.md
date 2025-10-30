@@ -61,5 +61,6 @@ Feel free to fork, improve, or open issues. All contributions are welcome!
 📄 **License**
 This project is open-sourced under the MIT License.
 
+---
 🔗 **Credits**
 https://github.com/sharish/ScratchView
