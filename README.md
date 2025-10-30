@@ -1,4 +1,4 @@
-# 🎯 ScratchView - Scratch to Reveal Android App
+# 🎯 ScratchView - Scratch to Reveal Android Application
 
 An interactive Android application where users can scratch a surface to reveal hidden rewards using `ScratchImageView`. Designed with engaging animations and smooth UI for an immersive experience.
 
