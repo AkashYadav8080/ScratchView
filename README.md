@@ -64,4 +64,4 @@ This project is open-sourced under the MIT License.
 ---
 
 🔗 **Credits**
-https://github.com/sharish/ScratchView\
+https://github.com/sharish/ScratchView/
