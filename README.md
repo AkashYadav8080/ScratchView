@@ -65,3 +65,4 @@ This project is open-sourced under the MIT License.
 
 🔗 **Credits**
 https://github.com/sharish/ScratchView/
+
